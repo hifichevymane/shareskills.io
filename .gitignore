@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Autopep8
+.vscode
+
 # Distribution / packaging
 .Python
 build/
