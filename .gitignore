@@ -9,6 +9,8 @@ __pycache__/
 # Autopep8
 .vscode
 
+node_modules
+
 # Distribution / packaging
 .Python
 build/
